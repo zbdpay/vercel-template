@@ -38,7 +38,7 @@ A Next.js starter for building AI agents that can pay and get paid over Lightnin
 2. **Initialize your ZBD wallet**
 
    ```bash
-   npx @zbdpay/agent-wallet init --key YOUR_ZBD_API_KEY
+   npx @axobot/cli init --key YOUR_ZBD_API_KEY
    ```
 
    This creates a Lightning address for your agent and prints it out. Save it for the next step.
@@ -131,7 +131,8 @@ vercel-template/
 ## References
 
 - [ZBD Agent Docs](https://docs.zbdpay.com/agents)
-- [@zbdpay/agent-fetch on npm](https://www.npmjs.com/package/@zbdpay/agent-fetch)
-- [@zbdpay/agent-pay on npm](https://www.npmjs.com/package/@zbdpay/agent-pay)
+- [@axobot/fetch on npm](https://www.npmjs.com/package/@axobot/fetch)
+- [@axobot/pay on npm](https://www.npmjs.com/package/@axobot/pay)
+- [@axobot/pay on npm](https://www.npmjs.com/package/@axobot/pay)
 - [Vercel AI SDK](https://sdk.vercel.ai)
 - [Vercel KV](https://vercel.com/docs/storage/vercel-kv)

@@ -11,8 +11,8 @@
   "dependencies": {
     "@ai-sdk/openai": "^1.0.0",
     "@vercel/kv": "^3.0.0",
-    "@zbdpay/agent-fetch": "^1.0.2",
-    "@zbdpay/agent-pay": "^1.0.2",
+    "@axobot/fetch": "^1.0.2",
+    "@axobot/pay": "^1.0.2",
     "ai": "^4.0.0",
     "next": "^15.0.0",
     "react": "^19.0.0",
