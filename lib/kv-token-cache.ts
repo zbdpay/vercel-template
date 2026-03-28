@@ -1,4 +1,4 @@
-import type { TokenCache, TokenRecord } from "@zbdpay/agent-fetch";
+import type { TokenCache, TokenRecord } from "@axobot/fetch";
 import type { VercelKV } from "@vercel/kv";
 
 export class VercelKVTokenCache implements TokenCache {

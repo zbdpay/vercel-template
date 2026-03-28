@@ -1,4 +1,4 @@
-import { withPaymentRequired } from "@zbdpay/agent-pay/next";
+import { withPaymentRequired } from "@axobot/pay/next";
 
 export const runtime = "nodejs";
 

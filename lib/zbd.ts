@@ -1,4 +1,4 @@
-import { agentFetch, zbdPayL402Invoice } from "@zbdpay/agent-fetch";
+import { agentFetch, zbdPayL402Invoice } from "@axobot/fetch";
 import { VercelKVTokenCache } from "./kv-token-cache";
 import { kv } from "@vercel/kv";
 
